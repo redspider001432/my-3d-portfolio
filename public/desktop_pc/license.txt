@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vendetta-mask-set
+* source:	https://sketchfab.com/3d-models/vendetta-mask-set-c00ce3a188bb4e31838534ce4fee0038
+* author:	chuckevil1984 (https://sketchfab.com/chuckevil1984)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vendetta-mask-set" (https://sketchfab.com/3d-models/vendetta-mask-set-c00ce3a188bb4e31838534ce4fee0038) by chuckevil1984 (https://sketchfab.com/chuckevil1984) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
