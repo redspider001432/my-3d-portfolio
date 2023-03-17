@@ -20,4 +20,4 @@
 
 ![Contact](https://github.com/redspider001432/my-3d-portfolio/blob/master/screenshots/Screenshot%20from%202023-03-17%2015-31-35.png?raw=true)
 
-### Thanks to JavaMastery for this Amazing Course
+### Thanks to JSMastery for this Amazing Course
