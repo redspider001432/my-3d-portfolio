@@ -8,7 +8,7 @@
 ## Jobs
 ![Jobs](https://github.com/redspider001432/my-3d-portfolio/blob/master/screenshots/Screenshot%20from%202023-03-17%2015-31-16.png?raw=true)
 
-## Skilss
+## Skills
 
 ![skills](https://github.com/redspider001432/my-3d-portfolio/blob/master/screenshots/Screenshot%20from%202023-03-17%2015-31-21.png?raw=true)
 
